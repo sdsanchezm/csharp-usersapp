@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "PizzaStore": {
+    "UserStore": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
