@@ -2,6 +2,7 @@
 
 - Description:		
 	- user data saved to a local database, using dotnet core 6, entity framework and a regular user model.
+ 	- the project uses minimal api.
 
 ## Migrations
 
